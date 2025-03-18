@@ -1,1 +1,1 @@
-Data of the midterm is purely from Api.
+All the data comes from the API.
