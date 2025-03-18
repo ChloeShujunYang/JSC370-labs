@@ -1,0 +1,1 @@
+Data of the midterm is purely from Api.
